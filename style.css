@@ -66,7 +66,7 @@
 .launch-time div p {
     font-size: 60px;
     margin-bottom: -14px;
-    transition: font-size 0.3s ease; /* Add transition for font size */
+    transition: font-size 1.0s ease; /* Add transition for font size */
 }
 
 .rocket {
@@ -87,4 +87,3 @@
         opacity: 1;
     }
 }
-
