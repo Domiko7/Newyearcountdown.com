@@ -63,21 +63,10 @@
     flex-basis: 150px;
 }
 
-@keyframes slidein {
-    from {
-        opacity: 1;
-    }
-    to {
-        opacity: 0;
-    }
-}
 
 .launch-time div p {
     font-size: 60px;
     margin-bottom: -14px;
-    animation-duration: 1s;
-    animation-name: slidein;
-    animation-iteration-count: infinite;
 }
 
 
