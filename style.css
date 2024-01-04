@@ -72,14 +72,15 @@
 
 @keyframes slidein {
     from {
-        margin-down: 50%
-        opacity: 100%;
+        margin-top: 50%;
+        opacity: 1;
     }
     to {
-        margin-down: 0%
-        opacity: 0%;
+        margin-top: 0%;
+        opacity: 0;
     }
 }
+
 
 
 .rocket {
