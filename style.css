@@ -65,11 +65,9 @@
 
 @keyframes slidein {
     from {
-        margin-top: 50%;
         opacity: 1;
     }
     to {
-        margin-top: 0%;
         opacity: 0;
     }
 }
